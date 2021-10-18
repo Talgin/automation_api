@@ -2,6 +2,7 @@
 *.pyc
 *.log
 *.save
+*.swp
 # Ignore service resulting files
 *.jpg
 *.png
